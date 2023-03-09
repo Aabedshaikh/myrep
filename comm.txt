@@ -1,2 +1,3 @@
 pehli command
-dusri command - by gaus
+
+dusri command deleted by abed and added to third line
